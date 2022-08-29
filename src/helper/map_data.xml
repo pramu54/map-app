@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Attractions>
+    <atr>
+        <latitude>1.286920</latitude>
+        <longitude>103.854570</longitude>
+        <name>Merlion</name>
+        <description></description>
+    </atr>
+    <atr>
+        <latitude>1.287466,</latitude>
+        <longitude>103.851424</longitude>
+        <name>Asian Civilisations Museum</name>
+        <description></description>
+    </atr>
+    <atr>
+        <latitude>1.290555,</latitude>
+        <longitude>103.846188</longitude>
+        <name>Clarke Quay</name>
+        <description></description>
+    </atr>
+    <atr>
+        <latitude>1.295526,</latitude>
+        <longitude>103.845331</longitude>
+        <name>Fort Canning Park</name>
+        <description></description>
+    </atr>
+    <atr>
+        <latitude>1.302279,</latitude>
+        <longitude>103.837399</longitude>
+        <name>Orchard Road</name>
+        <description></description>
+    </atr>
+    <atr>
+        <latitude>1.289332,</latitude>
+        <longitude>103.863152</longitude>
+        <name>Singapore Flyer</name>
+        <description></description>
+    </atr>
+    <atr>
+        <latitude>1.283099,</latitude>
+        <longitude>103.860295</longitude>
+        <name>Marina Bay Sands</name>
+        <description></description>
+    </atr>
+    <atr>
+        <latitude>1.281790,</latitude>
+        <longitude>103.863954</longitude>
+        <name>Gardens By The Bay</name>
+        <description></description>
+    </atr>
+    <atr>
+        <latitude>1.284193,</latitude>
+        <longitude>103.843362</longitude>
+        <name>Chinatown</name>
+        <description></description>
+    </atr>
+</Attractions>
